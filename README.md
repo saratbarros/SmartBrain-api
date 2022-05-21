@@ -1,5 +1,6 @@
 # SmartBrain-API
-This is part of the smart-t-brain project: Back-end part.
+- Zero to Mastery: Web developer course 2022
+- This is part of the smart-t-brain project: Back-end controllers.
 
 ## About this project
 - API connector to the frontend.
