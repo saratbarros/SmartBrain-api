@@ -1,8 +1,6 @@
 # SmartBrain-API
 - Zero to Mastery: Web developer course 2022
-- This is part of the SmartBrain project: Back-end controllers.
+- This is part of the SmartBrain project: Back-end controllers [view here](smart-t-brain.herokuapp.com/)
 
 ## About this project
-- API connector to the frontend.
-- Server created with node.js with a devdependency of nodemon.
-- Database created using postgreSQL and package Knex.js.
+Back-end portion of the Project SmartBrain, database created using postgreSQL with npm package Knex.js. Server was also created with node.js with nodemon as a devdependency. This then works as an API connector to the frontendm
